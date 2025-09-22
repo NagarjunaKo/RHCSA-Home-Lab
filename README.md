@@ -59,7 +59,7 @@ Ctrl + v # select characters or group of characters to copy and del with 'd' or 
 u # undo last command
 Ctrl+r # Redo last command. Only once
 ?text # search backwards 
-^ # go to first position in current line
+^ # go to first position in current line 
 $ # go to end of line
 :%s/old/new/g # replace all occurances of old w/ new. 'gc' to add confirmations
 ```
